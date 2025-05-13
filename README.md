@@ -5,7 +5,7 @@ My homebrew (brew) tap for my personal software
 
 ```s
 brew tap enzo-zsh/tap
-brew install <formula>
+brew install <formula/casks>
 ```
 
 ## Formulae
