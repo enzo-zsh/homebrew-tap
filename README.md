@@ -11,6 +11,10 @@ brew install <formula>
 ## Formulae
 
 * `zfetch` - zfetch is a fetch script used to quickly show system information in terminal.
+
+## Casks
+
+* `osc-dl-mac` - Desktop utility for downloading Wii homebrew apps from the Open Shop Channel building for macOS.
   
 ## Documentation
 
