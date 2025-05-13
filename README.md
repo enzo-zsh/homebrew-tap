@@ -10,7 +10,7 @@ brew install <formula>
 
 ## Formulae
 
-* `softname` - description
+* `zfetch` - zfetch is a fetch script used to quickly show system information in terminal.
   
 ## Documentation
 
